@@ -1,0 +1,20 @@
+.docktip{
+    font-size:12px;
+    line-height:12px;
+    font-family: "Lucida Grande","Tahoma",sans-serif;
+    font-weight:bold;
+    max-width:200px;
+    padding: 2px 11px 3px;
+    color: white;
+    display:none;
+    background-color:rgba(0,0,0,.5);
+    text-shadow: rgba(0,0,0,0.8) 0px 1px 1px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    background:expression("transparent");
+    -ms-filter:expression( "'progid:DXImageTransform.Microsoft.gradient(startColorstr=#88000000,endColorstr=#88000000)'");
+    filter:expression( "progid:DXImageTransform.Microsoft.gradient(startColorstr=#88000000,endColorstr=#88000000)");
+    zoom: expression("1");
+    position:absolute;
+    cursor:pointer;
+}
